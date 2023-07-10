@@ -1,7 +1,7 @@
 
-- 🔭 I’m currently working on Web Pentesting
-- 🌱 I’m currently learning Information Assurance
-- 🤔 I’m looking for help with Cybersecurity
+- 🔭  I’m currently learning Information Assurance
+- 🌱 I’m currently working with Web Pentesting
+- 🤔 I’m looking for Internship and Open-source projects 
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/your.hungjk/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nguyễn-hưng-38a525221/) 
