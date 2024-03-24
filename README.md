@@ -1,5 +1,3 @@
-
-- 🔭  I’m currently learning Information Assurance at FPT University
 - 🌱 I’m interesting in Web Pentesting and Pwnable
 - 🤔 I’m looking for Internship and Open-source projects 
 
