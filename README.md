@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l42yh4d3s&label=Profile%20views&color=0e75b6&style=flat" alt="l42yh4d3s" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l42yh4d3s" alt="l42yh4d3s" /></a> </p>
-
 - 🌱 I’m currently learning **Web penetration testing and Binary exploitation**
 
 - 📫 How to reach me **vanhung28122003@gmail.com**
